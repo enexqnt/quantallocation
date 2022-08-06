@@ -11,3 +11,4 @@ Including:
 5. Regime Based Asset Allocation with Gaussian Mixture & Risk Parity (Work in progress)
 
 ![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/mc_sim.png)
+![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/ke.png)
