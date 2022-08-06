@@ -1,6 +1,5 @@
 # quantallocation
-A collection of asset allocation tests using JupiterNotebook.
-
+A collection of quantitative asset allocation tests-
 
 Including:
 1. [Monte Carlo Simulation](https://github.com/enexqnt/quantallocation/blob/main/AW%20Monte%20Carlo%20(3).pdf) of lazy multi-asset portfolio + Historical Analysis with Pyfolio 
