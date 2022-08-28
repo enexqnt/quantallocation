@@ -7,6 +7,6 @@ A collection of quantitative asset allocation tests, including:
 4. [Mean Variance, Black & Litterman, Pure Bayesian and Jorion Rule for in-sample optimization](https://github.com/enexqnt/quantallocation/blob/main/MPT%2BBL%2BBayesian.pdf) using PyPortfolioOpt
 5. [Regime Based Asset Allocation with Hidden Markov Model with Gaussian Mixture Emissions and Trend Filtering algorithm](https://github.com/enexqnt/quantallocation/blob/main/RBAA%20HMM.ipynb)
 
+![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/output1.png)
 ![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/output.png)
-![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/mc_sim.png)
 ![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/ke.png)
