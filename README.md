@@ -10,5 +10,5 @@ A collection of quantitative asset allocation tests, including:
 
 ![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/regimes.png)
 ![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/w.png)
-![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/output.png)
+![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/wealth.png)
 ![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/ke.png)
