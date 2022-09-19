@@ -7,6 +7,7 @@ A collection of quantitative finance notebooks, including:
 4. [Regime switching Mean Variance Optimization with Hidden Markov Model and Trend Filtering algorithm](https://github.com/enexqnt/quantallocation/blob/main/HMM%20MULTIPLE%20STATES.ipynb)
 5. [Inflation forecast with XGBoost](https://github.com/enexqnt/quantallocation/blob/main/Inflation%20XGBoost.ipynb)
 
+![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/inflationxgboost.png)
 ![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/regimes.png)
 ![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/w.png)
 ![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/wealth.png)
