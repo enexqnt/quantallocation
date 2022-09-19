@@ -9,6 +9,8 @@ A collection of quantitative finance notebooks, including:
 
 
 Preview:
+
+
 ![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/inflationxgboost.png)
 ![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/regimes.png)
 ![alt text](https://github.com/enexqnt/quantallocation/blob/main/Images/w.png)
