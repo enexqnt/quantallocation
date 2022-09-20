@@ -6,7 +6,7 @@ A collection of quantitative finance notebooks, including:
 3. [Mean Variance, Black & Litterman, Pure Bayesian and Jorion Rule for in-sample optimization](https://github.com/enexqnt/quantallocation/blob/main/MPT%2BBL%2BBayesian.pdf) using PyPortfolioOpt
 4. [Regime switching Mean Variance Optimization with Hidden Markov Model and Trend Filtering algorithm](https://github.com/enexqnt/quantallocation/blob/main/HMM%20MULTIPLE%20STATES.ipynb)
 5. [Inflation forecast with XGBoost](https://github.com/enexqnt/quantallocation/blob/main/Inflation%20XGBoost.ipynb)
-
+6. [Recession forecast with XGBoost](https://github.com/enexqnt/quantallocation/blob/main/Recession%20Prediction%20XGBoost.ipynb)
 
 Preview:
 
